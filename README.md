@@ -1,6 +1,6 @@
 # Restaurant Page
 
-### [Live Demo](https://sultanbadri.github.io/restaurant-page/)
+### [Live Demo](https://husnainsaeed00.github.io/Resturant-page/)
 
 ![6PleOrJiNB](https://user-images.githubusercontent.com/46205282/104827147-c226ab80-580f-11eb-8e40-0db14c611dd5.gif)
 
